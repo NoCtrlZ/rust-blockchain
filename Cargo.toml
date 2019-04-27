@@ -5,3 +5,6 @@ authors = ["Hemlocked <phantomofrotten@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+
+[lib]
+crate-type=["cdylib]
